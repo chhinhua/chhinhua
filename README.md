@@ -8,8 +8,8 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/IntelliJ-IDEA-282C34?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="TypeScript" height="25" /></span>
-&nbsp;
+<span><img src="https://img.shields.io/badge/IntelliJ%20IDEA-282C34?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ" height="25" /></span>
+<!-- &nbsp; -->
 
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
