@@ -30,8 +30,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=57BCAD" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft%5SQL%5Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
-&nbsp;
 
 <!-- <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
