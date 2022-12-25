@@ -81,6 +81,14 @@
   </a>
 </div>
 
+<!-- <div align="center">
+  💻👩‍👩‍👦‍👦 All Developer News in One Place </>
+
+👉https://daily.dev/
+
+
+</div> -->
+
 <br>
 
 
