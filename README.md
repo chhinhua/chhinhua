@@ -8,7 +8,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/IntelliJ-IDEA-282C34?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ" height="25" /></span>
+<span><img src="https://img.shields.io/badge/IntelliJ-IDE-282C34?logo=intellij-ide&logoColor=000000" alt="IntelliJ IDE logo" title="IntelliJ" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=6DB33F" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
