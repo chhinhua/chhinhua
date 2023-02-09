@@ -73,7 +73,7 @@
 <br><br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/ZhhinHua/" target="blank">
+  <a href="https://www.facebook.com/chhinhua/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ChhinHua-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/chhin-hua-864a28241/" target="blank">
