@@ -69,15 +69,13 @@
 </div>
 
 <br><br><br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">📧 Where to find me 👇 </h2>
 <br><br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/chhinhua/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ChhinHua-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/chhin-hua-864a28241/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="ChhinHua-linkedin" />
+
+  <a href="https://chhinhua.github.io/profile-card/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/null/group.png" alt="Profile" />
   </a>
 </div>
 
